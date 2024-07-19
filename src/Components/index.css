@@ -1,0 +1,44 @@
+.header {
+  border: crimson 3px;
+  padding: 10px 10px;
+  max-width: 350px;
+  margin: 50px 0px 50px 0px;
+  margin-left: 40%;
+  border-style: outset;
+}
+
+.txt {
+  text-align: center;
+}
+
+.list {
+  display: flex;
+  /* flex-direction: column; */
+  /* border: solid; */
+  justify-content: space-between;
+}
+
+.list1 {
+  display: flex;
+  flex-direction: column;
+  border: solid;
+  justify-content: space-between;
+  padding: 10px;
+  margin: 10px;
+  font-size: 20px;
+}
+
+li {
+  list-style: none;
+  text-align: center;
+}
+
+.food {
+  display: flex;
+  flex-direction: column;
+  border: solid;
+  justify-content: space-between;
+  padding: 10px;
+  margin: 10px;
+  font-size: 20px;
+}
